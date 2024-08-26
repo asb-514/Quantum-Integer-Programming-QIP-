@@ -1,0 +1,18 @@
+---------------------------------------quatum annealer output---------------------------------------
+selected [value, weight] pairs respectively:
+[[10, 2], [5, 3], [14, 8], [7, 1]]
+
+total value selected:                                      36
+total weight selected:                                      14
+----------------------quatum annealer output + Polynomial time Postprocessing-----------------------
+selected [value, weight] pairs respectively:
+[[10, 2], [5, 3], [14, 8], [7, 1]]
+
+total value selected:                                      36
+total weight selected:                                      14
+-----------------------------------Solution given in the data set-----------------------------------
+selected [value, weight] pairs respectively:
+[[10, 2], [5, 3], [14, 8], [7, 1]]
+
+total value selected:                                      36
+total weight selected:                                      14

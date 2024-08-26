@@ -1,0 +1,2 @@
+The max value of objective function is (with  31  Graver elements)  :  55.0
+The max value of objective function is (with  2  Graver elements)  :  55.0

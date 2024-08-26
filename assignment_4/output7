@@ -1,0 +1,18 @@
+---------------------------------------quatum annealer output---------------------------------------
+selected [value, weight] pairs respectively:
+[[149, 77], [184, 94], [192, 98], [214, 113], [221, 115], [229, 118], [240, 120]]
+
+total value selected:                                    1429
+total weight selected:                                     735
+----------------------quatum annealer output + Polynomial time Postprocessing-----------------------
+selected [value, weight] pairs respectively:
+[[173, 90], [184, 94], [192, 98], [214, 113], [221, 115], [229, 118], [240, 120]]
+
+total value selected:                                    1453
+total weight selected:                                     748
+-----------------------------------Solution given in the data set-----------------------------------
+selected [value, weight] pairs respectively:
+[[135, 70], [149, 77], [156, 82], [173, 90], [184, 94], [192, 98], [229, 118], [240, 120]]
+
+total value selected:                                    1458
+total weight selected:                                     749

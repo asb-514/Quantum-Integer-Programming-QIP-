@@ -1,0 +1,18 @@
+---------------------------------------quatum annealer output---------------------------------------
+selected [value, weight] pairs respectively:
+[[511, 49], [593, 59], [564, 57]]
+
+total value selected:                                    1668
+total weight selected:                                     165
+----------------------quatum annealer output + Polynomial time Postprocessing-----------------------
+selected [value, weight] pairs respectively:
+[[525, 50], [593, 59], [617, 60]]
+
+total value selected:                                    1735
+total weight selected:                                     169
+-----------------------------------Solution given in the data set-----------------------------------
+selected [value, weight] pairs respectively:
+[[525, 50], [593, 59], [617, 60]]
+
+total value selected:                                    1735
+total weight selected:                                     169

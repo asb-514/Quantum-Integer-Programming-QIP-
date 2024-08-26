@@ -1,0 +1,18 @@
+---------------------------------------quatum annealer output---------------------------------------
+selected [value, weight] pairs respectively:
+[[70, 31], [37, 19]]
+
+total value selected:                                     107
+total weight selected:                                      50
+----------------------quatum annealer output + Polynomial time Postprocessing-----------------------
+selected [value, weight] pairs respectively:
+[[70, 31], [37, 19]]
+
+total value selected:                                     107
+total weight selected:                                      50
+-----------------------------------Solution given in the data set-----------------------------------
+selected [value, weight] pairs respectively:
+[[70, 31], [37, 19]]
+
+total value selected:                                     107
+total weight selected:                                      50
